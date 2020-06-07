@@ -1,2 +1,6 @@
 # Secure-Rest-Api
-rest api in node js
+Secure Rest Api in Node js with JWT Token auth.
+Using Express and Mongo DB.
+
+
+
